@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class AIScript_GhanaDhimal : MonoBehaviour {
+public class AIScript_SamDhimal : MonoBehaviour {
 
     public CharacterScript mainScript;
 
